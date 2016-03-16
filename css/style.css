@@ -3,5 +3,15 @@
 }
 
 .body-text {
-    color: #CACACA
+    color: #8F8D8D
+}
+
+a:link, a:visited { 
+    color: black;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+a:link:active, a:visited:active { 
+    color: black;
 }
